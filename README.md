@@ -2,7 +2,7 @@
 
 This project was carried out by a group of 7 students as part [Advanced Project Course (AI and Machine Learning)](https://studieinfo.liu.se/en/kurs/TDDE19/ht-2024#syllabus) during my masters programme in Linköping university.
 
-his project explores whether an AlphaZero-style reinforcement learning system can solve Sokoban puzzles, a PSPACE-complete domain requiring long-horizon reasoning.
+This project explores whether an AlphaZero-style reinforcement learning system can solve Sokoban puzzles, a PSPACE-complete domain requiring long-horizon reasoning.
 The implementation integrates:
 
 Modified MCTS with enhanced rollout logic
